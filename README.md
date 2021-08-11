@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abigail!
 - 👀 I’m interested in full-stack web development, machine learning, and tech for social good.
-- 🌱 I’m currently learning React, MongoDB, Node.js, and concepts in NLP.
-- 💞️ I’m looking to collaborate on any mission-driven projects, or anything that will strengthen my skills in web development and machine learning.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on any mission-driven projects, or anything that will strengthen my skills in full-stack web development.
 - 📫 You can reach me through my email abat271@uw.edu or my LinkedIn: https://www.linkedin.com/in/abatinga/ 
 
 <!---
